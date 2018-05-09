@@ -6,7 +6,11 @@
 
 
 body{
-	background: #8caab6;
+
+	background-image: url("distro.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;		
 	font-family: 'Helvetica', arial, sans-serif;
 
 	font-size: 15px;
